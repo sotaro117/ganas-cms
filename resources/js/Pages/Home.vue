@@ -27,7 +27,7 @@
     <section
         v-if="!$page.props.auth.user"
         class="
-            bg-green-100
+            bg-white
             border border-black border-opacity-5
             rounded-xl
             text-center
